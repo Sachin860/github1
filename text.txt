@@ -17,3 +17,7 @@ commands used to link and merge the datas in github and launching tool
 7) git branch -a (used to check branchs in repositary)
 8) git checkout branch_name (used to change branch one to anther)
 9) git merge branch_name 
+10) git branch __branch_name__(to create a new branch)
+11) git init
+git remote add origin --link of repostiary-- (and new branch created now u can push) 
+
