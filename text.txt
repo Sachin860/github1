@@ -8,7 +8,7 @@ step 4: clone github repositary in selected folder
 
 commands used to link and merge the datas in github and launching tool
 
-1)b git clone repositary_link
+1)b git clone repositary_link 
 2)  git add file_name or git add . (to change to track)
 3)  git status
 4)  git commit -m "commit cmd" (what we change or added in sheet)
@@ -20,4 +20,4 @@ commands used to link and merge the datas in github and launching tool
 10) git branch __branch_name__(to create a new branch)
 11) git init (adding git soucre or git-websit to the folder)
 12) git remote add origin --link of repostiary-- (use to push or pull the data to the repositary to branch or new branch) 
-
+13) git remote -v (use to find the To check which repository you are currently working in)
